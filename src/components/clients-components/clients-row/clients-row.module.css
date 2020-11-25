@@ -1,0 +1,23 @@
+.wrapper {
+    padding: 0 20px;
+    margin: 16px;
+    border-radius: 4px;
+    height: 55px;
+    color: #3a3a3a;
+    background: var(--color-fff);
+}
+
+.container {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.checkBox {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #b5b5b5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}

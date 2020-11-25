@@ -1,0 +1,135 @@
+{
+    "bidsData" : [
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Успешно",
+            "duration": "5 м. 23 сек.",
+            "record": "25:23",
+            "buttonLabel": "В клиенты",
+            "backgroundPlate": "success"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Не взял трубку",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "didntPickUp"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Занято",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "busyTone"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Успешно",
+            "duration": "5 м. 23 сек.",
+            "record": "25:23",
+            "buttonLabel": "В клиенты",
+            "backgroundPlate": "success"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Успешно",
+            "duration": "5 м. 23 сек.",
+            "record": "25:23",
+            "buttonLabel": "В клиенты",
+            "backgroundPlate": "success"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Не взял трубку",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "didntPickUp"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Занято",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "busyTone"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Не взял трубку",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "didntPickUp"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Не взял трубку",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "didntPickUp"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Занято",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "busyTone"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Успешно",
+            "duration": "5 м. 23 сек.",
+            "record": "25:23",
+            "buttonLabel": "В клиенты",
+            "backgroundPlate": "success"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Занято",
+            "duration": "5 м. 23 сек.",
+            "record": "",
+            "buttonLabel": "Перезвонить",
+            "backgroundPlate": "busyTone"
+        },
+        {
+            "date": "14.02.2020 14:23:04",
+            "phone": "8 928 456-43-34",
+            "responsible": "Саламатин Владимир Александрович",
+            "status": "Успешно",
+            "duration": "5 м. 23 сек.",
+            "record": "25:23",
+            "buttonLabel": "В клиенты",
+            "backgroundPlate": "success"
+        }
+    ]
+}
+

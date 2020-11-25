@@ -1,0 +1,36 @@
+.container {
+    height: 46px;
+    background: var(--color-fff);
+    margin: 16px;
+    display: flex;
+    align-items: stretch;
+    border-radius: 4px;
+    composes: effectBG2 from "../../index.css";
+}
+
+.borderLeft {
+    height: 100%;
+    border-left: 1px solid var(--color-stroke2-on-white-hash);
+}
+
+.flexCenter {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+    width: 55px;
+}
+
+.feedButtons {
+    composes: flexCenter;
+    composes: borderLeft;
+    padding: 0 20px;
+}
+
+.active path {
+    fill: var(--color-text);
+}

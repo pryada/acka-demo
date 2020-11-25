@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    margin: 16px;
+}
+
+.buttonBox {
+    width: 190px;
+    height: 46px;
+}
+
+.buttonText {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+
+    align-items: center;
+}
+
+.marginLeft {
+    margin-left: 10px;
+}
+
+.greenButton {
+    background: var(--color-Akcent1);
+    composes: buttonBox;
+}
+
+.whiteButton {
+    background: var(--color-fff);
+    margin-left: 14px;
+    composes: buttonBox;
+}
+
+.createText {
+    color: var(--color-fff);
+    composes: buttonText;
+}
+
+.shareButton {
+    color: var(--color-fff);
+    composes: marginLeft;
+    composes: buttonText;
+}
+
+.deleteButton {
+    color: var(--color-text);
+
+    composes: marginLeft;
+    composes: buttonText;
+}
+
+.searchWrapper {
+    width: 1165px;
+    border-radius: 4px;
+    background: var(--color-fff);
+    display: flex;
+    align-items: center;
+    margin: 0 14px;
+    composes: effectBG2 from "../../../index.css";
+}

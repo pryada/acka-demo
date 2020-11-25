@@ -1,0 +1,18 @@
+.wrapper {
+    padding: 0 20px;
+    margin: 16px;
+    border-radius: 4px;
+    height: 54px;
+    background: var(--color-fff);
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    color: var(--color-text-gray);
+    composes: effectBG2 from "../../../index.css";
+}
+
+.container {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}

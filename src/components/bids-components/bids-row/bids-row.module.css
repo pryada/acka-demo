@@ -1,0 +1,31 @@
+.wrapper {
+    padding: 0 20px;
+    margin: 16px;
+    border-radius: 4px;
+    height: 54px;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    color: #3a3a3a;
+}
+
+.container {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.success {
+    border-color: var(--color-Akcent1);
+    background: #d1f8f9;
+}
+
+.didntPickUp {
+    border-color: var(--color-red);
+    background: rgba(223, 14, 15, 0.1);
+}
+
+.busyTone {
+    border-color: var(--color-Akcent2);
+    background: var(--color-fff);
+}

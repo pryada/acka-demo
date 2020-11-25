@@ -1,0 +1,15 @@
+.leftMenu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 94px;
+    background: var(--color-BG1);
+}
+
+.iconsColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}

@@ -1,0 +1,56 @@
+.wrapper {
+    /* TODO: Плохое решение. Ширина прибита гвоздями, нужно переделать на более универсальный компонент */
+    width: 380px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+}
+
+.container {
+    padding-left: 20px;
+    padding-top: 18px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid #dfdfdf;
+    padding: 8px;
+}
+
+.row span {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 135%;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.phone {
+    color: var(--color-Akcent1);
+}
+
+.success {
+    border-color: var(--color-Akcent1);
+    background: #d1f8f9;
+}
+
+.didntPickUp {
+    border-color: var(--color-red);
+    background: rgba(223, 14, 15, 0.1);
+}
+
+.busyTone {
+    border-color: var(--color-Akcent2);
+    background: var(--color-fff);
+}
+
+.emptyAudio {
+    height: 26px;
+}

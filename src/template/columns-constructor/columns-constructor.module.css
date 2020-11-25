@@ -1,0 +1,10 @@
+.wrapper {
+    margin: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-right: 10px;
+}

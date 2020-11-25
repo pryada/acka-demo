@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+        "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: "JetBrains Mono", source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+:root {
+    font-size: 14px;
+    color: #3a3a3a;
+
+    --color-Menu-icons: #bfbfbf;
+    --color-test-background: #273b6e;
+    --color-Dostupno: #ffffff;
+    --color-akcia: #e26465;
+    --color-bron: #1ad5b6;
+    --color-reserv: #18dedd;
+    --color-investor: #3c5bae;
+    --color-arenda: #6ac4f8;
+    --color-prodano: #c2c2c2;
+    --color-BG1: rgba(52, 62, 98, 1);
+    --color-BG2: rgba(82, 94, 135, 1);
+    --color-BG3: #f7f7f7;
+    --color-icon-mainmenu: #8a91b1;
+    --color-red: #df0e0f;
+    --color-Stroke1: #636e93;
+    --color-stroke2-on-white: rgba(234, 234, 234, 0.15);
+    --color-stroke2-on-white-hash: #eaeaea;
+    --color-stroke3-on-color: rgba(234, 234, 234, 0.5);
+    --color-text: #3a3a3a;
+    --color-text-gray: #b9b9b9;
+    --color-text-gray2: #929292;
+    --color-icons-gray: #bfbfbf;
+    --color-Akcent1: #6ac4f8;
+    --color-Akcent2: #1adde1;
+    --color-fff: #fff;
+}
+
+.effectBG {
+    background: #c4c4c4;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.effectBG2 {
+    background: #c4c4c4;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.effecttTbtbtm {
+    background: #c4c4c4;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+.effectShadowOfHover {
+    background: #c4c4c4;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.06);
+}
+
+.effectFv {
+    background: #c4c4c4;
+    box-shadow: 0px 2.66047px 40px rgba(0, 0, 0, 0.1);
+}

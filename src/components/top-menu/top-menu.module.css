@@ -1,0 +1,7 @@
+.container {
+    height: 76px;
+    background: var(--color-BG2);
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
